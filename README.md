@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Ilaria Coccollone 👩🏻‍💻
+**Data Scientist**
 
-<!--
-**IlariaCoccollone/IlariaCoccollone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about data, machine learning, and green computing aligned with the evolution of technology and sustainability.
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+- Python, R, SQL, NoSQL, SAS
+  
+## 📈 Interests
+- Data Analysis 
+- Machine Learning
+- Cybersecurity 
+- Ethical AI
+- Green Computing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's connect
+<div style="display: flex; align-items: center;">
+  <a href="mailto:i.coccollone@campus.unimib.it" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="35" style="margin-left: 10px;" />
+  </a>
+  <a href="https://www.linkedin.com/in/ilaria-coccollone-7b3a66243/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" style="margin-left: 10px;" />
+  </a>
+</div>
