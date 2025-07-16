@@ -3,19 +3,19 @@
 
 I'm passionate about data, machine learning, and green computing aligned with the evolution of technology and sustainability.
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Python, R, SQL, NoSQL, SAS
   
-## 📈 Interests
+## My Interests
 - Data Analysis 
 - Machine Learning
 - Cybersecurity 
 - Ethical AI
 - Green Computing
 
-## 📫 Let's connect
+## Let's connect
 <div style="display: flex; align-items: center;">
-  <a href="mailto:i.coccollone@campus.unimib.it" target="_blank">
+  <a href="mailto:ilariacoccollone@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Mail_%28iOS%29.svg" alt="Email" width="35" style="margin-left: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/ilaria-coccollone-7b3a66243/" target="_blank">
