@@ -9,6 +9,7 @@ I'm passionate about Data, Machine Learning, and Green Computing aligned with th
 ## My Interests
 - Data Analysis 
 - Machine Learning
+- Deep Learning
 - Cybersecurity 
 - Ethical AI
 - Green Computing
