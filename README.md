@@ -3,7 +3,7 @@
 
 I'm passionate about Data, AI, Cloud, and Cybersecurity with a growing focus on sustainability, Ethical AI, and Green Computing.
 
-## Tech Stack
+## Tech Stack ⚒️
 - Python, R, SQL, NoSQL, SAS
   
 ## My Interests
