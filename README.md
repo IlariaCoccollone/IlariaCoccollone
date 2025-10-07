@@ -13,6 +13,7 @@ I'm passionate about Data, Machine Learning, and Green Computing aligned with th
 - Cybersecurity 
 - Ethical AI
 - Green Computing
+- Cloud Computing
 
 ## Let's connect
 <div style="display: flex; align-items: center;">
