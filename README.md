@@ -1,7 +1,7 @@
 # Hi, I'm Ilaria Coccollone 👩🏻‍💻
 **Data Scientist**
 
-I'm passionate about Data, AI, Cloud, and Cybersecurity with a growing focus on sustainability, Ethical AI, and Green Computing.
+I'm passionate about Data, AI, Cloud, and Cybersecurity with a growing focus on sustainability, Ethical AI and Green Computing.
 
 ## Tech Stack ⚒️
 - Python, R, SQL, NoSQL, SAS
